@@ -33,4 +33,4 @@ A identidade visual do projeto segue uma paleta de cores baseada nas diretrizes 
   [Protótipo](https://www.figma.com/design/DansNeGtXRN9y0x2Qj4sM5/Champions-Lol?node-id=2-179&node-type=frame&t=NmPpdFXTjuOexgia-0)
 
 - **Acesse o projeto:**  
-  [Projeto](beatrizaribeiro.github.io/ChampionsLol/)
+  [Projeto](https://beatrizaribeiro.github.io/ChampionsLol/)

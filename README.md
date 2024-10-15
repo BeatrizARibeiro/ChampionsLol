@@ -22,7 +22,7 @@ A identidade visual do projeto segue uma paleta de cores baseada nas diretrizes 
 
 <br>
 
-## Links Importantes 
+## Links importantes 
 - **API utilizada:**  
   [Riot Games - API](https://ddragon.leagueoflegends.com/cdn/14.19.1/data/pt_BR/champion.json)  
 

@@ -1,4 +1,4 @@
-# Champions League of Legends
+# Champions - League of Legends
 
 Este projeto é um visualizador interativo dos campeões do League of Legends, utilizando a API oficial da Riot Games. Os campeões são apresentados em cards que foram inspirados em cartas de deck, cada um contendo informações detalhadas como nome, título, imagem, funções e históriado campeão.
 

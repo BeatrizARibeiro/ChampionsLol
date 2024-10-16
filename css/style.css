@@ -205,3 +205,9 @@ dialog h4 {
         transform: rotate(360deg);
     }
 }
+
+@media (max-width: 510px) {
+    dialog {
+        padding: 20px 40px;
+    }
+}
